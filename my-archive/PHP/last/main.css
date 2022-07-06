@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 14px Georgia, serif;
+  background-size: cover;
+  background-position: center;
+}
+.login-left {
+  background-color: aqua;
+  padding: 30px;
+}
+.login-right {
+  background-color: grey;
+  padding: 30px;
+}
+.form-control {
+  background-color: transparent !important;
+}
+.login-box {
+  max-width: 700px;
+  float: none;
+  margin: 150px auto;
+}
+#page-wrap {
+  width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 25px 0;
+  font: 18px Georgia, Serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+#quiz input {
+  vertical-align: middle;
+}
+
+#quiz ol {
+  margin: 0 0 10px 20px;
+}
+
+#quiz ol li {
+  margin: 0 0 20px 0;
+}
+
+#quiz ol li div {
+  padding: 4px 0;
+}
+
+#quiz h3 {
+  font-size: 17px;
+  margin: 0 0 1px 0;
+  color: rgb(0, 0, 0);
+}
+
+#results {
+  font: 44px Georgia, Serif;
+}
